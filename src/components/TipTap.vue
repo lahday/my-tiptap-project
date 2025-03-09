@@ -63,7 +63,7 @@ const handleOrderedList = () => {
 <style>
 .editor-container {
   border: 1px solid #e0e0e0;
-  min-height: 150px;
+  min-height: 200px;
   width: 50%;
   padding: 5px;
   border-radius: 6px;
